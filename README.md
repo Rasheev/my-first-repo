@@ -5,4 +5,4 @@ NPM     : 2206081622
 
 Kelas   : PBP B
 
-Jurusan : Ilmu Komputer
+Hobi    : Main
